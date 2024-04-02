@@ -1,1 +1,0 @@
-# python3 dataset_generator.py <IMAGES> <MASKS> <BACKGROUNDS>
