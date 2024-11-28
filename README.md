@@ -1,5 +1,5 @@
 # DeepCanola
-Deep learning phenotyping of brassica and relatives, via semi-synthetic data.
+Code and model weights associated with the publication _DeepCanola: Phenotyping Brassica Pods Using Semi-Synthetic Data and Active Learning_. 
 
 Training and inference scripts in `train.sh` and `inference.sh`.
 
