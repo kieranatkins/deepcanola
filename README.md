@@ -11,7 +11,7 @@ Model weights available at: [*link*](https://www.dropbox.com/scl/fi/0gvfptco8qgg
 
 # DeepCanola training
 
-Loss and AP graphs of training DeepCanola model (not the same as model provided here, instead a retrained model with identical training parameters with performance +/- 0.001 AP in both metrics to DeepCanola model, shown for illustrative purposes.)
+Loss and AP graphs of training DeepCanola model (not the same as model provided here, instead a retrained model with identical training parameters with performance ± 0.001 AP in both metrics to DeepCanola model, shown for illustrative purposes.)
 
 Loss: 
 
