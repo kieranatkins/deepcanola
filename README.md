@@ -15,5 +15,6 @@ Loss and AP graphs of training DeepCanola model (not the same as model provided 
 
 Loss:
 <img src="https://github.com/kieranatkins/deepcanola/blob/main/loss.png?raw=True" alt="Loss graph" height=300 width=400>
+
 AP:
 <img src="https://github.com/kieranatkins/deepcanola/blob/main/ap.png?raw=True" alt="AP graph" height=300 width=400>
